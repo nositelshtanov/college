@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T17:06:18.156Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ezmHE0vNzCHxyLFocDY7" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T17:07:20.715Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="g2ilUa-UhD17GxGSdhJR" version="14.5.0" type="github">
   <diagram id="27Kxbp3FnaFngUzaxpmB" name="Page-1">
-    <mxGraphModel dx="2370" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="AbT6HGysCSy0yQ7p1fem-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=11;" vertex="1" parent="AbT6HGysCSy0yQ7p1fem-1">
           <mxGeometry x="45" y="550" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AbT6HGysCSy0yQ7p1fem-4" value="Мастер по приемке" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="AbT6HGysCSy0yQ7p1fem-4" value=":Мастер по приемке" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="20" width="100" height="650" as="geometry" />
         </mxCell>
         <mxCell id="AbT6HGysCSy0yQ7p1fem-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="AbT6HGysCSy0yQ7p1fem-4">
@@ -28,7 +28,7 @@
             <mxPoint x="60" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AbT6HGysCSy0yQ7p1fem-5" value="Автомеханик-диагност" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="AbT6HGysCSy0yQ7p1fem-5" value=":Автомеханик-диагност" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="20" width="100" height="650" as="geometry" />
         </mxCell>
         <mxCell id="AbT6HGysCSy0yQ7p1fem-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=11;" vertex="1" parent="AbT6HGysCSy0yQ7p1fem-5">
@@ -40,7 +40,7 @@
         <mxCell id="AbT6HGysCSy0yQ7p1fem-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=11;" vertex="1" parent="AbT6HGysCSy0yQ7p1fem-5">
           <mxGeometry x="45" y="550" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AbT6HGysCSy0yQ7p1fem-6" value="Программа-справочник" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="AbT6HGysCSy0yQ7p1fem-6" value=":Программа-справочник" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="20" width="100" height="650" as="geometry" />
         </mxCell>
         <mxCell id="AbT6HGysCSy0yQ7p1fem-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=11;" vertex="1" parent="AbT6HGysCSy0yQ7p1fem-6">
@@ -60,7 +60,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AbT6HGysCSy0yQ7p1fem-7" value="Цифровой отчет" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="AbT6HGysCSy0yQ7p1fem-7" value=":Цифровой отчет" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="370" width="100" height="255" as="geometry" />
         </mxCell>
         <mxCell id="AbT6HGysCSy0yQ7p1fem-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=11;" vertex="1" parent="AbT6HGysCSy0yQ7p1fem-7">
