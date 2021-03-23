@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T17:07:20.715Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="g2ilUa-UhD17GxGSdhJR" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T17:09:17.626Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="PxoQTbiXDTPJavvCFLqm" version="14.5.0" type="github">
   <diagram id="27Kxbp3FnaFngUzaxpmB" name="Page-1">
-    <mxGraphModel dx="1422" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,26 +66,20 @@
         <mxCell id="AbT6HGysCSy0yQ7p1fem-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=11;" vertex="1" parent="AbT6HGysCSy0yQ7p1fem-7">
           <mxGeometry x="45" y="110" width="10" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="AbT6HGysCSy0yQ7p1fem-9" value="Предоставить авто" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1.181;exitY=0.586;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.12;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AbT6HGysCSy0yQ7p1fem-8" target="AbT6HGysCSy0yQ7p1fem-10">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="180" y="110" as="sourcePoint" />
-            <mxPoint x="250" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AbT6HGysCSy0yQ7p1fem-12" value="Документы оформлены" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.143;exitY=0.964;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.051;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AbT6HGysCSy0yQ7p1fem-10" target="AbT6HGysCSy0yQ7p1fem-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="180" as="sourcePoint" />
             <mxPoint x="147" y="186" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AbT6HGysCSy0yQ7p1fem-16" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=1.133;exitY=0.71;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.2;entryY=0.263;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AbT6HGysCSy0yQ7p1fem-8" target="AbT6HGysCSy0yQ7p1fem-10">
+        <mxCell id="AbT6HGysCSy0yQ7p1fem-16" value="" style="endArrow=open;endFill=1;endSize=12;html=1;entryX=-0.057;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="AbT6HGysCSy0yQ7p1fem-10">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="150" y="130" as="sourcePoint" />
+            <mxPoint x="146" y="202" as="sourcePoint" />
             <mxPoint x="310" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AbT6HGysCSy0yQ7p1fem-17" value="Предоставить документы" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="130" y="200" width="160" height="20" as="geometry" />
+          <mxGeometry x="140" y="180" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AbT6HGysCSy0yQ7p1fem-18" value="Предоставить авто" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1.033;exitY=0.258;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.031;entryY=0.126;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="AbT6HGysCSy0yQ7p1fem-19">
           <mxGeometry width="80" relative="1" as="geometry">
